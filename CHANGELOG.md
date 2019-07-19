@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/xeroxinteractive/prettier-config/compare/v1.0.0...v1.1.0) (2019-07-19)
+
+
+### Features
+
+* allow trailing commas ([eb917e9](https://github.com/xeroxinteractive/prettier-config/commit/eb917e9))
+
 # 1.0.0 (2019-07-11)
 
 
