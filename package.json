@@ -1,6 +1,6 @@
 {
   "name": "@xerox/prettier-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Prettier shareable configuration for Xerox projects.",
   "main": "index.json",
   "repository": "git@github.com:xeroxinteractive/prettier-config.git",
